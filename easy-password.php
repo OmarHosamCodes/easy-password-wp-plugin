@@ -3,7 +3,7 @@
  * Plugin Name: Easy Password
  * Description: A plugin that creates a shortcode for generating and managing user passwords
  * Version: 1.0
- * Author: WordPress User
+ * Author: Omar Hosam
  * Text Domain: easy-password
  */
 
